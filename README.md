@@ -1,4 +1,4 @@
-# 📑Mapa-de-cobertura-GRU-Aiport📑 #
+# 📝Mapa-de-cobertura-GRU-Aiport📝 #
 Foi elaborado o mapa de cobertura para o site do GRU Airport, o qual representa a abrangência do testes que serão realizados no projeto. 
 
 ## 👀Visão Geral👀 ##
@@ -6,6 +6,9 @@ Um **mapa de cobertura de testes** é uma ferramenta visual ou documento que rep
 
 ## 🎯Projeto🎯 ##
 O mapa de cobertura foi elaborado com base nos requisitos funcionais do site do **GRU Airport**, o site do aeroporto de Guarulhos.
+
+## ✈️Especificação Funcional do GRU Airport✈️ ##
+Abaixo segue a documentação funcional do GRU Airport nela encontraremos: Premissas, links de acesso, regras de négocios e interface. 
 
 
 
