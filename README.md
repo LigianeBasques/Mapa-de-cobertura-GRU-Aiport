@@ -10,5 +10,7 @@ O mapa de cobertura foi elaborado com base nos requisitos funcionais do site do 
 ## ✈️Especificação Funcional do GRU Airport✈️ ##
 Abaixo segue a documentação funcional do GRU Airport nela encontraremos: Premissas, links de acesso, regras de négocios e interface. 
 
+<li> <a href="https://drive.google.com/file/d/1UrqNp6GXy0DkIBRLHDGXy7Vw4EBqJzcW/view?usp=sharing" rel=nofollow>GRU Especificação Funcional</a><//li>
+
 
 
