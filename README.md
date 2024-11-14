@@ -12,5 +12,12 @@ Abaixo segue a documentação funcional do GRU Airport nela encontraremos: Premi
 
 <li> <a href="https://drive.google.com/file/d/1UrqNp6GXy0DkIBRLHDGXy7Vw4EBqJzcW/view?usp=sharing" rel=nofollow>GRU Especificação Funcional</a><//li>
 
+## 📌Planilha com mapa de cobertura📌 ##
+Abaixo segue a planilha com o mapa de cobertura o qual foi mapeado as funcionalidade do sistema que serão testadas e o nível de cobertura desses testes.
+
+<li> <a href="https://docs.google.com/spreadsheets/d/1jghN5UOeZ44xuTw1dd-wYMlI6hPm_AbP/edit?usp=sharing&ouid=106063138446942195318&rtpof=true&sd=true" rel=nofollow>MAPA DE COBERTURA</a><//li>
+
+
+
 
 
